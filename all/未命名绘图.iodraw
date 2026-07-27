@@ -10,7 +10,7 @@
         <mxCell id="IcRFuACTG-8M2XC5wldd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-2" target="IcRFuACTG-8M2XC5wldd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-2" value="&lt;b&gt;样车数据与法规限值&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="IcRFuACTG-8M2XC5wldd-2" value="&lt;b&gt;样车数据与法规限值&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-6" target="IcRFuACTG-8M2XC5wldd-7">
