@@ -1,72 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="znYNAx459zeHeWZLe72u">
-    <mxGraphModel dx="1213" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IcRFuACTG-8M2XC5wldd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="560" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-2" target="IcRFuACTG-8M2XC5wldd-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-2" target="IcRFuACTG-8M2XC5wldd-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-2" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;样车数据与法规限值&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="100" y="240" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-6" target="IcRFuACTG-8M2XC5wldd-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-6" value="问题一：联合不确定性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="320" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-7" target="IcRFuACTG-8M2XC5wldd-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-7" value="&lt;b&gt;输出鲁棒工程目标T&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="400" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-9" target="IcRFuACTG-8M2XC5wldd-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-9" value="SPRT 正式判定&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="320" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-10" target="IcRFuACTG-8M2XC5wldd-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-10" value="机器学习辅助预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="400" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-11" target="IcRFuACTG-8M2XC5wldd-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-11" value="问题二：序贯抽样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="240" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-12" target="IcRFuACTG-8M2XC5wldd-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-12" value="CUSUM 分级监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="320" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-13" target="IcRFuACTG-8M2XC5wldd-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-13" value="MOPSO 策略优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-14" target="IcRFuACTG-8M2XC5wldd-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-14" value="问题三：动态抽检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="240" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-15" value="&lt;b&gt;独立仿真与方案输出&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="440" y="480" width="120" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
