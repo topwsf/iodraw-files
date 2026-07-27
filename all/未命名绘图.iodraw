@@ -10,11 +10,20 @@
         <mxCell id="IcRFuACTG-8M2XC5wldd-28" value="样本数据与法规限值" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="100" y="240" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IcRFuACTG-8M2XC5wldd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-29" target="IcRFuACTG-8M2XC5wldd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-29" value="问题一：联合不确定性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="340" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IcRFuACTG-8M2XC5wldd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-30" target="IcRFuACTG-8M2XC5wldd-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-30" value="输出鲁棒工程目标 T" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IcRFuACTG-8M2XC5wldd-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcRFuACTG-8M2XC5wldd-31" target="IcRFuACTG-8M2XC5wldd-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-31" value="问题二：序贯抽样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="140" height="60" as="geometry" />
