@@ -19,7 +19,7 @@
         <mxCell id="IcRFuACTG-8M2XC5wldd-32" value="SPRT 正式判定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="340" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IcRFuACTG-8M2XC5wldd-33" value="机器学习辅助预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="450" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
