@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-28" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;质量诊断&lt;/b&gt;&lt;b&gt;样本，&lt;/b&gt;&lt;b&gt;统计特征、相关性&lt;/b&gt;&lt;b&gt;与法规上限&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="100" y="240" width="140" height="60" as="geometry" />
+          <mxGeometry x="90" y="230" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-29" target="IcRFuACTG-8M2XC5wldd-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-29" value="Model l 独立正态基准&lt;div&gt;采用Sidak方法等额分配合规概率&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="340" width="140" height="60" as="geometry" />
+          <mxGeometry x="90" y="330" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-30" target="IcRFuACTG-8M2XC5wldd-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-31" value="Model V敏感性-鲁棒决策开展Sobol 全局敏感性与复合压力测试要求所有情景的联合合格率不低于95%" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="240" width="140" height="60" as="geometry" />
+          <mxGeometry x="270" y="230" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-32" target="IcRFuACTG-8M2XC5wldd-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
