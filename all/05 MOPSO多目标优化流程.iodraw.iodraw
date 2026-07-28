@@ -45,8 +45,8 @@
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-16" value="&lt;b&gt;迭代结束?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-25" value="达到预警阈值?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="60" width="140" height="60" as="geometry" />
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-25" value="&lt;b&gt;达到预警阈值?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
