@@ -11,7 +11,7 @@
           <mxGeometry x="225" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-2" value="红色:停产整改&lt;div&gt;暂停放行·原因排查&lt;/div&gt;&lt;div&gt;整改后重新基线化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="500" width="150" height="60" as="geometry" />
+          <mxGeometry x="725" y="500" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-3" target="y1EjJA4T7FjgeCiY4USf-5">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-7" value="启动问题二SPRT&lt;div&gt;确认LLR&lt;sub&gt;i&lt;/sub&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;正式风险边界保持不变&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="280" width="180" height="60" as="geometry" />
+          <mxGeometry x="710" y="280" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-8" value="&lt;div&gt;绿色:低频监控&lt;/div&gt;&lt;div&gt;抽检周期τ&lt;sub&gt;G&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;生产正常运行&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362.5" y="400" width="135" height="60" as="geometry" />
@@ -46,8 +46,11 @@
         <mxCell id="y1EjJA4T7FjgeCiY4USf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-10" target="y1EjJA4T7FjgeCiY4USf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-10" target="y1EjJA4T7FjgeCiY4USf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-10" value="SPRT得到结论?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="400" width="140" height="60" as="geometry" />
+          <mxGeometry x="730" y="400" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-11" value="&lt;b&gt;进入下一抽检时点&lt;/b&gt;&lt;div&gt;&lt;b&gt;绿色按τ&lt;sub&gt;G&lt;/sub&gt;、黄色按τ&lt;sub&gt;γ&lt;/sub&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SPRT接受时清零累计和并恢复绿色&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="500" width="240" height="60" as="geometry" />
