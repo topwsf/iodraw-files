@@ -82,7 +82,7 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.118;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-28" target="OzTzNNzjrQYj8SDFaywp-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-38" value="问题一目标失效:重估s&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;u&lt;/sup&gt;/Copula，更新T*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-38" value="问题一目标失效：重估s&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;u&lt;/sup&gt;/Copula，更新T*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="950" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-39" value="版本绑定：统一管理目标、边界、阈值与权重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -91,10 +91,10 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-40" value="四级审核：研发确认→质量复核→生产评估→独立回测→放行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1010" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-41" value="问题二边界失效:复核Δ&lt;sub&gt;j&lt;/sub&gt;、标准差与边界，更新SPRT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-41" value="问题二边界失效：复核Δ&lt;sub&gt;j&lt;/sub&gt;、标准差与边界，更新SPRT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="950" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-42" value="问题三延迟失效:重标漂移率、周期与阈值，更新MOPSO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-42" value="问题三延迟失效：重标漂移率、周期与阈值，更新MOPSO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="950" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
