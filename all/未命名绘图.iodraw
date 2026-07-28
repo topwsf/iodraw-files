@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LDzb5Rn8OmvPkBESXq5T-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="590" width="630" height="350" as="geometry" />
+        </mxCell>
         <mxCell id="LDzb5Rn8OmvPkBESXq5T-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="610" width="590" height="310" as="geometry" />
         </mxCell>
@@ -57,9 +60,6 @@
         </mxCell>
         <mxCell id="LDzb5Rn8OmvPkBESXq5T-18" value="输出" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="935" y="840" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LDzb5Rn8OmvPkBESXq5T-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
