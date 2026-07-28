@@ -358,11 +358,14 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-146" value="最优基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="628" width="80" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-154" target="OzTzNNzjrQYj8SDFaywp-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-154" value="单边CUSUM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="758" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-155" value="C&lt;sub&gt;i&lt;/sub&gt;&amp;lt;h&lt;sub&gt;w&lt;/sub&gt;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="830" width="70" height="30" as="geometry" />
+          <mxGeometry x="960" y="850" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-156" value="C&lt;sub&gt;i&lt;/sub&gt;&amp;lt;h&lt;sub&gt;c&lt;/sub&gt;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="890" width="60" height="30" as="geometry" />
