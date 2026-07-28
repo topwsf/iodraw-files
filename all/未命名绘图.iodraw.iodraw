@@ -61,7 +61,7 @@
         <mxCell id="y1EjJA4T7FjgeCiY4USf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-12" target="y1EjJA4T7FjgeCiY4USf-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y1EjJA4T7FjgeCiY4USf-12" value="抽取并标准化三项观测&lt;div&gt;更新各指标的单边累计和C&lt;sub style=&quot;&quot;&gt;i&lt;/sub&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-12" value="抽取并标准化三项观测&lt;div&gt;更新各指标的单边累计和&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub style=&quot;&quot;&gt;i&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.127;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-8" target="y1EjJA4T7FjgeCiY4USf-11">
