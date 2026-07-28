@@ -343,7 +343,7 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-143" target="OzTzNNzjrQYj8SDFaywp-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-143" value="整改后复位:μ&lt;sub&gt;i&lt;/sub&gt;(0)=T&lt;sub&gt;i&lt;/sub&gt;*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-143" value="决策变量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="516" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-145" target="OzTzNNzjrQYj8SDFaywp-146">
