@@ -13,7 +13,7 @@
         <mxCell id="y1EjJA4T7FjgeCiY4USf-3" value="&lt;b&gt;最大累计和C&lt;sub&gt;i&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;达到预警阈值?&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y1EjJA4T7FjgeCiY4USf-5" value="&lt;b&gt;最大累计和C&lt;sub&gt;i&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;达到预警阈值?&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-5" value="&lt;b&gt;最大累计和C&lt;sub&gt;i&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;达到确认阈值?&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="280" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
