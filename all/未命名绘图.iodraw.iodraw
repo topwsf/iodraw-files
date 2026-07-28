@@ -522,7 +522,7 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-210" value="&lt;div&gt;漂移速度周期策略响应&lt;/div&gt;&lt;div&gt;惩罚成本样本量策略响应&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="983" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-213" value="问题三延迟失效：重标漂移率、周期与阈值，更新MOPSO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-213" value="漂移速度敏感性:周期与阈值响应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990.25" y="1030" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
