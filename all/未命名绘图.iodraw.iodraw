@@ -20,7 +20,7 @@
           <mxGeometry x="480" y="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-8" value="均值标准差描述统计，&lt;div&gt;缺失、重复、异常值检查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="140" height="60" as="geometry" />
+          <mxGeometry x="90" y="270" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
