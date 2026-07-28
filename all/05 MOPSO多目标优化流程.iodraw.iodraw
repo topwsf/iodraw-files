@@ -46,17 +46,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-26" target="o8okAV7UjtL1ua1eJ4yW-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-26" value="&lt;b&gt;达到确认阈值?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-27" value="黄色:加密抽检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-31" target="o8okAV7UjtL1ua1eJ4yW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-31" value="启动SPRT逐车确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-38" value="接受:清零复位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="140" height="60" as="geometry" />
+          <mxGeometry x="280" y="340" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
