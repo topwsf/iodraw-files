@@ -490,13 +490,13 @@
           <mxGeometry x="915.5" y="1270" width="74" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-200" value="非支配排序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1012.5" y="1270" width="77.5" height="40" as="geometry" />
+          <mxGeometry x="1002.5" y="1270" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-201" value="Pareto寻优" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="913.75" y="1320" width="77.5" height="40" as="geometry" />
+          <mxGeometry x="1089.38" y="1270" width="76.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-202" value="膝点选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="913.75" y="1380" width="76.25" height="40" as="geometry" />
+          <mxGeometry x="913.25" y="1370" width="76.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
