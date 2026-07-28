@@ -52,7 +52,7 @@
         <mxCell id="HU7LwaYIp2TvbDwY6go6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HU7LwaYIp2TvbDwY6go6-3" target="HU7LwaYIp2TvbDwY6go6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HU7LwaYIp2TvbDwY6go6-19" value="保守截尾终判&lt;div&gt;调用固定样本规则或标记不确定&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HU7LwaYIp2TvbDwY6go6-19" value="抽取下一辆车&lt;div&gt;ML只调整抽样强度与人工复核&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="620" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
