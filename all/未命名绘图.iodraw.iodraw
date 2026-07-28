@@ -262,6 +262,14 @@
             <mxPoint x="770" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-103" target="OzTzNNzjrQYj8SDFaywp-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="780" />
+              <mxPoint x="770" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-103" value="黄色预警?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="730" width="120" height="30" as="geometry" />
         </mxCell>
