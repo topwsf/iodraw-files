@@ -433,7 +433,7 @@
           <mxGeometry x="1200" y="980" width="60" height="34" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-178" value="&lt;b&gt;结束&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1060" width="80" height="40" as="geometry" />
+          <mxGeometry x="1050" y="1060" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-183" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-166" target="OzTzNNzjrQYj8SDFaywp-178">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
