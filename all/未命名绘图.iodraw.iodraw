@@ -492,6 +492,9 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-200" value="非支配排序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1012.5" y="1270" width="113" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-201" value="Pareto寻优" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1135.25" y="1270" width="113" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
