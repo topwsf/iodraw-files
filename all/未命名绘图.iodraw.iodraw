@@ -460,7 +460,7 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-189" value="最小化年均总成本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="897" y="1210" width="107.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-190" value="最小化年均总成本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-190" value="最小化平均暴露时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1022.5" y="1210" width="107.5" height="40" as="geometry" />
         </mxCell>
       </root>
