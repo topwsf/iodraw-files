@@ -507,8 +507,8 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-202" value="膝点选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1183.25" y="1270" width="76.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-206" value="最小化平均暴露时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1023.75" y="1340" width="117.5" height="40" as="geometry" />
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-206" value="验证分离:搜索、方案选择与最终多种子测试相互独立" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="934.38" y="1340" width="286.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
