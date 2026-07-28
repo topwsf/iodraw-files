@@ -142,8 +142,8 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-54" value="参数化生成H&lt;sub&gt;0&lt;/sub&gt;/H&lt;sub&gt;1&lt;/sub&gt;序贯轨迹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="560" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-60" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="610" width="100" height="30" as="geometry" />
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-60" value="任一LLR&lt;sub&gt;i&lt;/sub&gt;≥A?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="610" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
