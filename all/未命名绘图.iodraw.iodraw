@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-1" value="样本统计量与法规上限" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="100" y="140" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
