@@ -55,7 +55,7 @@
         <mxCell id="y1EjJA4T7FjgeCiY4USf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-11" target="y1EjJA4T7FjgeCiY4USf-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y1EjJA4T7FjgeCiY4USf-11" value="进入下一抽检时点&lt;div&gt;绿色按τ&lt;sub&gt;G&lt;/sub&gt;、黄色按τ&lt;sub&gt;γ&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;SPRT接受时清零累计和并恢复绿色&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-11" value="进入下一抽检时点&lt;div&gt;绿色按&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;τ&lt;sub&gt;G&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;、黄色按&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;τ&lt;sub&gt;γ&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;SPRT接受时清零累计和并恢复绿色&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="460" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-12" target="y1EjJA4T7FjgeCiY4USf-3">
