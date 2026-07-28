@@ -16,7 +16,7 @@
         <mxCell id="DQ00AwfAVu01gSYSyOar-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aWJw5hTejyLhXJPZgaUP-4" target="DQ00AwfAVu01gSYSyOar-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aWJw5hTejyLhXJPZgaUP-4" value="&lt;div&gt;理想点折中与最终测试&lt;/div&gt;&lt;div&gt;归一化三目标距离最小&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aWJw5hTejyLhXJPZgaUP-4" value="&lt;div&gt;理想点折中与最终测试&lt;/div&gt;&lt;div&gt;归一化三目标距离最小&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="400" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DQ00AwfAVu01gSYSyOar-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aWJw5hTejyLhXJPZgaUP-7" target="aWJw5hTejyLhXJPZgaUP-14">
