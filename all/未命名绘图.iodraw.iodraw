@@ -85,6 +85,9 @@
         <mxCell id="y1EjJA4T7FjgeCiY4USf-30" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="497.5" y="290" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-31" value="拒收" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="785" y="428" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
