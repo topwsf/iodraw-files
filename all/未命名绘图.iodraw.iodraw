@@ -10,7 +10,7 @@
         <mxCell id="y1EjJA4T7FjgeCiY4USf-1" value="&lt;b&gt;参数接入&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="225" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y1EjJA4T7FjgeCiY4USf-2" value="红色:停产整改&lt;div&gt;暂停放行·原因排查&lt;/div&gt;&lt;div&gt;整改后重新基线化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-2" value="&lt;b&gt;红色:停产整改&lt;/b&gt;&lt;div&gt;&lt;b&gt;暂停放行·原因排查&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;整改后重新基线化&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="725" y="460" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-3" target="y1EjJA4T7FjgeCiY4USf-5">
@@ -55,7 +55,7 @@
         <mxCell id="y1EjJA4T7FjgeCiY4USf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-11" target="y1EjJA4T7FjgeCiY4USf-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y1EjJA4T7FjgeCiY4USf-11" value="&lt;b&gt;进入下一抽检时点&lt;/b&gt;&lt;div&gt;&lt;b&gt;绿色按τ&lt;sub&gt;G&lt;/sub&gt;、黄色按τ&lt;sub&gt;γ&lt;/sub&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SPRT接受时清零累计和并恢复绿色&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-11" value="进入下一抽检时点&lt;div&gt;绿色按τ&lt;sub&gt;G&lt;/sub&gt;、黄色按τ&lt;sub&gt;γ&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;SPRT接受时清零累计和并恢复绿色&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="460" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-12" target="y1EjJA4T7FjgeCiY4USf-3">
