@@ -25,7 +25,7 @@
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-4" target="o8okAV7UjtL1ua1eJ4yW-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-4" value="Model IIl&lt;div&gt;Bayes-Copula&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-4" value="计算成本、风险&lt;div&gt;与强度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-5" target="o8okAV7UjtL1ua1eJ4yW-6">
