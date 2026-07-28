@@ -519,7 +519,7 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-206" value="验证分离:搜索、方案选择与最终多种子测试相互独立" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1128.12" y="882" width="286.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-213" value="漂移速度敏感性:周期与阈值响应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-213" value="漂移速度敏感性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1046.24" y="1040" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-214" value="惩罚成本敏感性:样本量与暴露时间响应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
