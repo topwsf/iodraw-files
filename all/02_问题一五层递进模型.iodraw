@@ -25,7 +25,7 @@
         <mxCell id="IcRFuACTG-8M2XC5wldd-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-31" target="IcRFuACTG-8M2XC5wldd-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-31" value="Model V 敏感性-鲁棒决策&lt;div&gt;开展Sobol 全局敏感性与复合压力测试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IcRFuACTG-8M2XC5wldd-31" value="Model V 敏感性-鲁棒决策&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;开展Sobol 全局敏感性与复合压力测试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="230" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-32" target="IcRFuACTG-8M2XC5wldd-33" edge="1">
@@ -37,13 +37,13 @@
         <mxCell id="IcRFuACTG-8M2XC5wldd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-33" target="IcRFuACTG-8M2XC5wldd-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-33" value="Model III 贝叶斯-Copula&lt;div&gt;共轭先验+后验抽样+刻画三项相关性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IcRFuACTG-8M2XC5wldd-33" value="Model III 贝叶斯-Copula&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;共轭先验+后验抽样+刻画三项相关性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="435" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-34" target="IcRFuACTG-8M2XC5wldd-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-34" value="问题三：动态抽检" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IcRFuACTG-8M2XC5wldd-34" value="鲁棒工程目标T&lt;sub&gt;i&lt;/sub&gt;*&lt;div&gt;THC，NOx，CO作为问题二合格基准&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="230" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-35" target="IcRFuACTG-8M2XC5wldd-36" edge="1">
