@@ -25,6 +25,9 @@
         <mxCell id="y1EjJA4T7FjgeCiY4USf-9" value="&lt;div&gt;黄色:加密抽检&lt;/div&gt;&lt;div&gt;抽检周期τ&lt;sub&gt;γ&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;同步检查设备与工艺&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="400" width="135" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-10" value="&lt;b&gt;最大累计和C&lt;sub&gt;i&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;达到确认阈值?&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="400" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
