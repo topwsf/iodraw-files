@@ -229,28 +229,31 @@
             <mxPoint x="700" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-88" target="OzTzNNzjrQYj8SDFaywp-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-88" value="特征:均值/标准差/斜率/余量/LLR/联合距离" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="608" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-89" value="逻辑回归" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="680" width="50" height="30" as="geometry" />
+          <mxGeometry x="735" y="680" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-90" value="随机森林" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="680" width="50" height="30" as="geometry" />
+          <mxGeometry x="785" y="680" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-91" value="MLP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="680" width="50" height="30" as="geometry" />
+          <mxGeometry x="835" y="680" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-96" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OzTzNNzjrQYj8SDFaywp-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="755" y="660" as="sourcePoint" />
-            <mxPoint x="780" y="740" as="targetPoint" />
+            <mxPoint x="760" y="660" as="sourcePoint" />
+            <mxPoint x="785" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OzTzNNzjrQYj8SDFaywp-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="855" y="660" as="sourcePoint" />
-            <mxPoint x="765" y="690" as="targetPoint" />
+            <mxPoint x="860" y="660" as="sourcePoint" />
+            <mxPoint x="770" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
