@@ -43,7 +43,7 @@
         <mxCell id="IcRFuACTG-8M2XC5wldd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-34" target="IcRFuACTG-8M2XC5wldd-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-34" value="鲁棒工程目标T&lt;sub&gt;i&lt;/sub&gt;*&lt;div&gt;求得THC，NO&lt;sub&gt;x&lt;/sub&gt;，CO的&lt;span style=&quot;background-color: initial;&quot;&gt;合格基准&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IcRFuACTG-8M2XC5wldd-34" value="鲁棒工程目标T&lt;sub&gt;i&lt;/sub&gt;*&lt;div&gt;求THC，NO&lt;sub&gt;x&lt;/sub&gt;，CO的&lt;span style=&quot;background-color: initial;&quot;&gt;合格基准&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="230" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-35" target="IcRFuACTG-8M2XC5wldd-36" edge="1">
