@@ -46,7 +46,7 @@
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-16" target="o8okAV7UjtL1ua1eJ4yW-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o8okAV7UjtL1ua1eJ4yW-18">
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o8okAV7UjtL1ua1eJ4yW-18">
           <mxGeometry x="-0.05" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -60,6 +60,11 @@
               <mxPoint x="80" y="120" />
               <mxPoint x="80" y="370" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-22" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o8okAV7UjtL1ua1eJ4yW-19">
+          <mxGeometry x="-0.85" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-16" value="&lt;b&gt;迭代结束?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
