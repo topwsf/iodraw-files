@@ -361,7 +361,7 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-154" value="单边CUSUM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="758" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-155" value="Ci&amp;lt;hw?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-155" value="C&lt;sub&gt;i&lt;/sub&gt;&amp;lt;h&lt;sub&gt;w&lt;/sub&gt;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="890" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-156" value="Ci&amp;lt;hc?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
