@@ -212,7 +212,7 @@
           <mxGeometry x="585" y="718" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-81" value="SPRT保留正式接受、拒收与截尾判定权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="790" width="250" height="30" as="geometry" />
+          <mxGeometry x="430" y="780" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-85" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
