@@ -496,7 +496,7 @@
           <mxGeometry x="913.75" y="1320" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-202" value="膝点选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1259.5" y="1270" width="113" height="40" as="geometry" />
+          <mxGeometry x="913.75" y="1380" width="76.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
