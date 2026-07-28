@@ -463,6 +463,9 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-190" value="最小化平均暴露时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1022.5" y="1210" width="117.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-192" value="最小化年均抽检次数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1152.5" y="1210" width="117.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
