@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OzTzNNzjrQYj8SDFaywp-208" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Step 4 MOPS0 多目标优化&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1060" width="390" height="350" as="geometry" />
+          <mxGeometry x="886.63" y="1030" width="392.25" height="340" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-184" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Step 3CUSUM-SPRT两阶段动态机制（核心创新）&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="920.25" y="628" width="339.5" height="360" as="geometry" />
@@ -467,54 +467,54 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-187" value="决策向量&lt;div&gt;x=(TG,Ty,hw,hc,n)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1002.5" y="1100" width="150" height="50" as="geometry" />
+          <mxGeometry x="1001.38" y="1060" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-189">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="952.2727272727273" y="1270" as="targetPoint" />
+            <mxPoint x="951.1527272727272" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-189" value="最小化年均总成本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="896" y="1190" width="113" height="40" as="geometry" />
+          <mxGeometry x="894.88" y="1150" width="113" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-190" target="OzTzNNzjrQYj8SDFaywp-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-190" value="最小化平均暴露时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1017.75" y="1190" width="117.5" height="40" as="geometry" />
+          <mxGeometry x="1016.63" y="1150" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-192" target="OzTzNNzjrQYj8SDFaywp-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-192" value="最小化年均抽检次数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1151.5" y="1190" width="117.5" height="40" as="geometry" />
+          <mxGeometry x="1150.38" y="1150" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-196" target="OzTzNNzjrQYj8SDFaywp-200">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-196" value="粒子群更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="915.5" y="1270" width="74" height="40" as="geometry" />
+          <mxGeometry x="914.38" y="1230" width="74" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-200" target="OzTzNNzjrQYj8SDFaywp-201">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-200" value="非支配排序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1002.5" y="1270" width="77.5" height="40" as="geometry" />
+          <mxGeometry x="1001.38" y="1230" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-201" target="OzTzNNzjrQYj8SDFaywp-202">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-201" value="Pareto寻优" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1093.75" y="1270" width="76.25" height="40" as="geometry" />
+          <mxGeometry x="1092.63" y="1230" width="76.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-202" target="OzTzNNzjrQYj8SDFaywp-206">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-202" value="膝点选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1183.25" y="1270" width="76.25" height="40" as="geometry" />
+          <mxGeometry x="1182.13" y="1230" width="76.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-206" value="验证分离:搜索、方案选择与最终多种子测试相互独立" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="934.38" y="1350" width="286.25" height="40" as="geometry" />
+          <mxGeometry x="933.26" y="1310" width="286.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
