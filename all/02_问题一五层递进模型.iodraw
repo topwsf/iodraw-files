@@ -49,7 +49,7 @@
         <mxCell id="IcRFuACTG-8M2XC5wldd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-35" target="IcRFuACTG-8M2XC5wldd-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-35" value="CUSUM 分级监控" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IcRFuACTG-8M2XC5wldd-35" value="独立敏感性与压力验证&lt;div&gt;基准联合合格率98.38%复合压力情景联合合格率96.01%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="330" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-36" target="IcRFuACTG-8M2XC5wldd-37" edge="1">
