@@ -397,6 +397,9 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-164" target="OzTzNNzjrQYj8SDFaywp-172">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-164" target="OzTzNNzjrQYj8SDFaywp-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-164" value="&lt;b&gt;SPRT接受?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="900" width="80" height="50" as="geometry" />
         </mxCell>
@@ -413,10 +416,13 @@
           <mxGeometry x="1080" y="878" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-172" value="清零复位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="990" width="60" height="34" as="geometry" />
+          <mxGeometry x="1120" y="980" width="60" height="34" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-174" value="&lt;b&gt;停产整改&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="970" width="60" height="34" as="geometry" />
+          <mxGeometry x="1200" y="980" width="60" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-177" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1055" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
