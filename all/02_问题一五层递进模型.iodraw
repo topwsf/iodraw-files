@@ -77,8 +77,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HU7LwaYIp2TvbDwY6go6-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="448" width="50" height="30" as="geometry" />
+        <mxCell id="HU7LwaYIp2TvbDwY6go6-26" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="223" y="452" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
