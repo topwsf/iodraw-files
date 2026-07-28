@@ -121,8 +121,10 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-49" value="路径A:固定抽样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="510" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-50" target="OzTzNNzjrQYj8SDFaywp-53">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-50" value="路径B:SPRT主检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="510" width="140" height="30" as="geometry" />
@@ -136,11 +138,10 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-52" value="N=73全检判定并输出 OC曲线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="560" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-53" target="OzTzNNzjrQYj8SDFaywp-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-53" value="逐车更新三指标累计对数似然比LLR&lt;sub&gt;i&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="560" width="140" height="30" as="geometry" />
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OzTzNNzjrQYj8SDFaywp-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="590" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-54" target="OzTzNNzjrQYj8SDFaywp-88">
           <mxGeometry relative="1" as="geometry" />
@@ -169,8 +170,10 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-62" target="OzTzNNzjrQYj8SDFaywp-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-62" target="OzTzNNzjrQYj8SDFaywp-53">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="575" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-80" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 否：继续抽样" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzTzNNzjrQYj8SDFaywp-79">
           <mxGeometry x="0.0694" y="-1" relative="1" as="geometry">
@@ -270,6 +273,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-103" target="OzTzNNzjrQYj8SDFaywp-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-103" value="黄色预警?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="730" width="120" height="30" as="geometry" />
         </mxCell>
@@ -284,10 +290,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-107" value="继续监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="800" width="60" height="30" as="geometry" />
+          <mxGeometry x="750" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-108" value="加密抽样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="800" width="60" height="30" as="geometry" />
+          <mxGeometry x="820" y="800" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
