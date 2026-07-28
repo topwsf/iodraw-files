@@ -391,6 +391,9 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-164" value="&lt;b&gt;SPRT接受?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="900" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-166" value="&lt;b&gt;调用问题二SPRT&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="858" width="80" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
