@@ -73,8 +73,11 @@
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-43" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="158" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-44" value="拒收" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="298" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-45" value="接受" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="308" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
