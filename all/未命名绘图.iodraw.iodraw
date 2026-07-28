@@ -28,7 +28,7 @@
         <mxCell id="y1EjJA4T7FjgeCiY4USf-10" value="&lt;b&gt;SPRT得到结论?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="400" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y1EjJA4T7FjgeCiY4USf-11" value="&lt;b&gt;红色:停产整改&lt;/b&gt;&lt;div&gt;&lt;b&gt;暂停放行·原因排查&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;整改后重新基线化&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-11" value="&lt;b&gt;进入下一抽检时点&lt;/b&gt;&lt;div&gt;&lt;b&gt;绿色按TG、黄色按Ty;SPRT接受时清零累计和并恢复绿色&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="510" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
