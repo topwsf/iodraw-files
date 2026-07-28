@@ -29,13 +29,13 @@
           <mxGeometry x="730" y="370" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-19" value="非支配排序与档案更新更新&lt;div&gt;pbest/Pareto档案&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="310" width="240" height="60" as="geometry" />
+          <mxGeometry x="400" y="310" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-21" value="初始化粒子群与外部档案&lt;div&gt;随机生成可行策略&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="210" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DQ00AwfAVu01gSYSyOar-1" value="非支配排序与档案更新更新&lt;div&gt;pbest/Pareto档案&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="240" height="60" as="geometry" />
+        <mxCell id="DQ00AwfAVu01gSYSyOar-1" value="按稀疏网格选择leader" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
