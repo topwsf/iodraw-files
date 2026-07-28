@@ -335,13 +335,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-131" value="整改后复位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="1050" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-133" target="OzTzNNzjrQYj8SDFaywp-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-133" value="线性漂移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="320" width="140" height="50" as="geometry" />
+          <mxGeometry x="1052.5" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-134" value="V&lt;sub&gt;i&lt;/sub&gt;服从相关对数正态分布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="390" width="140" height="50" as="geometry" />
