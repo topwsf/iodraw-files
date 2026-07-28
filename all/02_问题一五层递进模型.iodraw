@@ -22,7 +22,7 @@
         <mxCell id="IcRFuACTG-8M2XC5wldd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-30" target="IcRFuACTG-8M2XC5wldd-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-30" value="Model Il Bootstrap容忍区间&lt;div&gt;整车有放回重采样，保持联合结构以波动上置信界s，扩大安全裕量&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IcRFuACTG-8M2XC5wldd-30" value="Model Il Bootstrap容忍区间&lt;div&gt;样本重采样并扩大安全裕量&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="440" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-31" target="IcRFuACTG-8M2XC5wldd-32" edge="1">
