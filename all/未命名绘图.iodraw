@@ -10,6 +10,9 @@
         <mxCell id="aWJw5hTejyLhXJPZgaUP-3" value="&lt;b&gt;参数接入&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="240" y="220" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="DQ00AwfAVu01gSYSyOar-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aWJw5hTejyLhXJPZgaUP-4" target="DQ00AwfAVu01gSYSyOar-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-4" value="&lt;div&gt;理想点折中与最终测试&lt;/div&gt;&lt;div&gt;归一化三目标距离最小&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="400" width="150" height="60" as="geometry" />
         </mxCell>
@@ -60,6 +63,9 @@
         </mxCell>
         <mxCell id="DQ00AwfAVu01gSYSyOar-1" value="按稀疏网格选择leader" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQ00AwfAVu01gSYSyOar-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DQ00AwfAVu01gSYSyOar-4" target="aWJw5hTejyLhXJPZgaUP-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DQ00AwfAVu01gSYSyOar-4" value="独立选择集&lt;div&gt;重估目标筛除风险约束不合格方案&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="190" height="60" as="geometry" />
