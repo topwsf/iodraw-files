@@ -486,8 +486,14 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-192" value="最小化年均抽检次数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1151.5" y="1190" width="117.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-196" target="OzTzNNzjrQYj8SDFaywp-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-196" value="粒子群更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="915.5" y="1270" width="74" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-200" target="OzTzNNzjrQYj8SDFaywp-201">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-200" value="非支配排序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1002.5" y="1270" width="77.5" height="40" as="geometry" />
@@ -496,7 +502,7 @@
           <mxGeometry x="1093.75" y="1270" width="76.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-202" value="膝点选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="913.25" y="1370" width="76.25" height="40" as="geometry" />
+          <mxGeometry x="1183.25" y="1270" width="76.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
