@@ -14,7 +14,7 @@
           <mxGeometry x="90" y="330" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HU7LwaYIp2TvbDwY6go6-1" value="任一LLR&lt;sub&gt;i,n&lt;/sub&gt;达到拒收边界?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="430" width="80" height="80" as="geometry" />
+          <mxGeometry x="50" y="430" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
