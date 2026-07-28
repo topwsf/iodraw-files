@@ -466,8 +466,16 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-187" value="决策向量&lt;div&gt;x=(TG,Ty,hw,hc,n)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1002.5" y="1100" width="150" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-189">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="952.2727272727273" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-189" value="最小化年均总成本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="896" y="1190" width="113" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-190" target="OzTzNNzjrQYj8SDFaywp-196">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-190" value="最小化平均暴露时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1017.75" y="1190" width="117.5" height="40" as="geometry" />
@@ -479,7 +487,7 @@
           <mxGeometry x="1151.5" y="1190" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-196" value="粒子群更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="896" y="1270" width="113" height="40" as="geometry" />
+          <mxGeometry x="870" y="1270" width="113" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
