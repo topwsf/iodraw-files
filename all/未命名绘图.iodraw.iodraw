@@ -226,6 +226,9 @@
             <mxPoint x="700" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-88" value="参数化生成H&lt;sub&gt;0&lt;/sub&gt;/H&lt;sub&gt;1&lt;/sub&gt;序贯轨迹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="608" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
