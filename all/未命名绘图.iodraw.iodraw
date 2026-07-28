@@ -94,8 +94,8 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-41" value="问题二边界失效:复核Δ&lt;sub&gt;j&lt;/sub&gt;=0.5si、标准差与边界，更新SPRT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="950" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-42" value="问题一目标失效:重估s&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;u&lt;/sup&gt;/Copula，更新T*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="950" width="140" height="40" as="geometry" />
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-42" value="问题三延迟失效:重标漂移率、周期与阈值，更新MOPSO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="950" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
