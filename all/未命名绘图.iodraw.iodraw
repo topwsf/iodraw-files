@@ -118,7 +118,7 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-51" value="路径C:ML辅助预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="510" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-52" value="Model l 独立正态基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-52" value="N=73全检判定并输出 OC曲线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="570" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
