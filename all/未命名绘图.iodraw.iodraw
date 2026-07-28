@@ -100,7 +100,7 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-43" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Step1 假设检验框架&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="220" width="160" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-44" value="H&lt;sub&gt;0&lt;/sub&gt;:三项污染物均值均满足μ&lt;sub&gt;i&lt;/sub&gt;≤T&lt;sub&gt;i&lt;/sub&gt;*(合格)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-44" value="三项污染物均值均合格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="260" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-45" value="H&lt;sub&gt;1&lt;/sub&gt;:至少一项均值达到μ&lt;sub&gt;i&lt;/sub&gt;=T&lt;sub&gt;i&lt;/sub&gt;*+0.5s&lt;sub&gt;i&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
