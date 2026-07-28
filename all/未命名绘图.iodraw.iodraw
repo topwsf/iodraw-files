@@ -85,11 +85,11 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-38" value="问题一目标失效:重估s&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;u&lt;/sup&gt;/Copula，更新T*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="950" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-39" value="问题一目标失效:重估s&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;u&lt;/sup&gt;/Copula，更新T*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-39" value="版本绑定:工程目标/SPRT边界/CUSUM阈值/MOPSO权重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1010" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-40" value="问题一目标失效:重估s&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;u&lt;/sup&gt;/Copula，更新T*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1000" width="140" height="40" as="geometry" />
+          <mxGeometry x="440" y="1010" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-41" value="问题二边界失效:复核Δ&lt;sub&gt;j&lt;/sub&gt;=0.5si、标准差与边界，更新SPRT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="950" width="150" height="50" as="geometry" />
