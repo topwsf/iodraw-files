@@ -10,7 +10,7 @@
         <mxCell id="IcRFuACTG-8M2XC5wldd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-28" target="IcRFuACTG-8M2XC5wldd-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IcRFuACTG-8M2XC5wldd-28" value="&lt;b&gt;输入与质量诊断10个样本·THC/NOx/CO统计特征、相关性与法规上限L;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="IcRFuACTG-8M2XC5wldd-28" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;质量诊断&lt;/b&gt;&lt;b&gt;样本，&lt;/b&gt;&lt;b&gt;统计特征、相关性&lt;/b&gt;&lt;b&gt;与法规上限&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="100" y="240" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IcRFuACTG-8M2XC5wldd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IcRFuACTG-8M2XC5wldd-29" target="IcRFuACTG-8M2XC5wldd-30" edge="1">
