@@ -233,10 +233,10 @@
           <mxGeometry x="720" y="680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-90" value="逻辑回归" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="780" y="680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-91" value="逻辑回归" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="700" width="60" height="30" as="geometry" />
+          <mxGeometry x="840" y="680" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
