@@ -63,8 +63,8 @@
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-31" value="启动SPRT逐车确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-38" value="黄色:加密抽检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="350" width="140" height="60" as="geometry" />
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-38" value="接受:清零复位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
