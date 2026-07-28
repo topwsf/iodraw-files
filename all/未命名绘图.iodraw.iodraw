@@ -19,6 +19,9 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-3" value="问题一:联合不确定性与鲁棒目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
