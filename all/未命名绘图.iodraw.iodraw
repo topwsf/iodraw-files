@@ -487,7 +487,7 @@
           <mxGeometry x="1151.5" y="1190" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-196" value="粒子群更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="896" y="1270" width="113" height="40" as="geometry" />
+          <mxGeometry x="896" y="1270" width="114" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-200" value="非支配排序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1012.5" y="1270" width="113" height="40" as="geometry" />
