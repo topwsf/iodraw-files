@@ -43,17 +43,8 @@
         <mxCell id="aWJw5hTejyLhXJPZgaUP-14" value="&lt;div&gt;黄色:加密抽检&lt;/div&gt;&lt;div&gt;抽检周期&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;τ&lt;sub&gt;γ&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;同步检查设备与工艺&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="542.5" y="370" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aWJw5hTejyLhXJPZgaUP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWJw5hTejyLhXJPZgaUP-17" target="aWJw5hTejyLhXJPZgaUP-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aWJw5hTejyLhXJPZgaUP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aWJw5hTejyLhXJPZgaUP-17" target="aWJw5hTejyLhXJPZgaUP-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-17" value="SPRT得到结论?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="370" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aWJw5hTejyLhXJPZgaUP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="aWJw5hTejyLhXJPZgaUP-19" target="aWJw5hTejyLhXJPZgaUP-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-19" value="进入下一抽检时点&lt;div&gt;绿色按&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;τ&lt;sub&gt;G&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;、黄色按&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;τ&lt;sub&gt;γ&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;SPRT接受时清零累计和并恢复绿色&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="460" width="240" height="60" as="geometry" />
@@ -62,16 +53,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-21" value="抽取并标准化三项观测&lt;div&gt;更新各指标的单边累计和&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub style=&quot;&quot;&gt;i&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="280" width="150" height="60" as="geometry" />
+          <mxGeometry x="200" y="290" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.127;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aWJw5hTejyLhXJPZgaUP-13" target="aWJw5hTejyLhXJPZgaUP-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.873;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aWJw5hTejyLhXJPZgaUP-14" target="aWJw5hTejyLhXJPZgaUP-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aWJw5hTejyLhXJPZgaUP-24" value="循环监测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="260" y="468" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-25" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="338" width="40" height="30" as="geometry" />
@@ -84,12 +72,6 @@
         </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-28" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="497.5" y="290" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aWJw5hTejyLhXJPZgaUP-29" value="拒收" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="790" y="430" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aWJw5hTejyLhXJPZgaUP-30" value="接受" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="675" y="430" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
