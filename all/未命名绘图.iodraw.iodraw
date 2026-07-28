@@ -34,6 +34,18 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-13" value="Model l 独立正态基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="510" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-14" value="Model l 独立正态基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="520" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-15" value="Model l 独立正态基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="650" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-16" value="Model l 独立正态基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-17" value="Model l 独立正态基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="730" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
