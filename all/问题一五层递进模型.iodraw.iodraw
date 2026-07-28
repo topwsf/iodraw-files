@@ -28,18 +28,11 @@
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-4" value="计算成本、风险&lt;div&gt;与强度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="170" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-5" target="o8okAV7UjtL1ua1eJ4yW-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-5" value="更新pbest与&lt;div&gt;Pareto档案&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="o8okAV7UjtL1ua1eJ4yW-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="200" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-7" target="o8okAV7UjtL1ua1eJ4yW-8">
           <mxGeometry relative="1" as="geometry" />
@@ -51,7 +44,7 @@
           <mxGeometry x="460" y="340" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-16" value="&lt;b&gt;迭代结束?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="90" width="140" height="60" as="geometry" />
+          <mxGeometry x="460" y="140" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
