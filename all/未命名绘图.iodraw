@@ -4,16 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aWJw5hTejyLhXJPZgaUP-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="180" width="780" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="aWJw5hTejyLhXJPZgaUP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="200" width="740" height="340" as="geometry" />
-        </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aWJw5hTejyLhXJPZgaUP-3" target="aWJw5hTejyLhXJPZgaUP-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aWJw5hTejyLhXJPZgaUP-3" value="&lt;b&gt;策略变量与参数边界绿色周期、黄色周期、两级阈值与样本量周期和阈值连续取值，样本量取整数&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="aWJw5hTejyLhXJPZgaUP-3" value="&lt;b&gt;参数接入&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="225" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-4" value="&lt;b&gt;红色:停产整改&lt;/b&gt;&lt;div&gt;&lt;b&gt;暂停放行·原因排查&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;整改后重新基线化&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
