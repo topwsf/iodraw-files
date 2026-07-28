@@ -4,17 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-1" target="o8okAV7UjtL1ua1eJ4yW-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-1" value="&lt;b&gt;定期抽检并更新&lt;/b&gt;&lt;div&gt;&lt;b&gt;CUSUM&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="100" y="140" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-2" target="o8okAV7UjtL1ua1eJ4yW-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-2" value="初始化粒子群与档案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="240" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-3" target="o8okAV7UjtL1ua1eJ4yW-4">
           <mxGeometry relative="1" as="geometry" />
@@ -54,8 +45,8 @@
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-16" value="&lt;b&gt;迭代结束?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="60" width="110" height="60" as="geometry" />
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-25" value="达到预警阈值?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
