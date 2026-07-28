@@ -334,7 +334,7 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-133" value="线性漂移:M(t)=T+Vit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="320" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-134" value="vi服从相关对数正态分布;按280/330/300天到法规上限标定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-134" value="V&lt;sub&gt;i&lt;/sub&gt;服从相关对数正态分布;按280/330/300天到法规上限标定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="390" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
