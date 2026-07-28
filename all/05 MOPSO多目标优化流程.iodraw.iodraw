@@ -13,21 +13,17 @@
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-3" value="绿色:低频抽检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="340" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-7" target="o8okAV7UjtL1ua1eJ4yW-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-7" value="独立样本复核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="240" width="140" height="60" as="geometry" />
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="o8okAV7UjtL1ua1eJ4yW-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="300" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-8" value="&lt;b&gt;拒收:停产整改&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="460" y="340" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-16" target="o8okAV7UjtL1ua1eJ4yW-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o8okAV7UjtL1ua1eJ4yW-18">
-          <mxGeometry x="-0.05" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8okAV7UjtL1ua1eJ4yW-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-16" value="&lt;b&gt;SPRT结论?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
