@@ -85,7 +85,7 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-38" value="问题一目标失效:重估s&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;u&lt;/sup&gt;/Copula，更新T*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="950" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-39" value="版本绑定:工程目标/SPRT边界/CUSUM阈值/MOPSO权重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-39" value="版本绑定：统一管理目标、边界、阈值与权重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1010" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-40" value="四级审核:研发确认一质量复核一生产评估一独立回测一放行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
