@@ -37,10 +37,10 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-14" value="Model II Bootstrap容忍区间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="550" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-15" value="Model lll 独立正态基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-15" value="Model IIl 贝叶斯-Copula" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="590" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-16" value="Model l 独立正态基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-16" value="Model IV 非线性成本优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="630" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-17" value="Model l 独立正态基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
