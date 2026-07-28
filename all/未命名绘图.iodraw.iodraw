@@ -115,11 +115,20 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-46" value="进行风险约束和Bonferroni分配，确认SPRT正式边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="390" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-49" target="OzTzNNzjrQYj8SDFaywp-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-49" value="路径A:固定抽样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="510" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-50" target="OzTzNNzjrQYj8SDFaywp-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-50" value="路径B:SPRT主检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="510" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-51" target="OzTzNNzjrQYj8SDFaywp-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-51" value="路径C:ML辅助预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="510" width="140" height="30" as="geometry" />
@@ -132,6 +141,9 @@
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-54" value="参数化生成H&lt;sub&gt;0&lt;/sub&gt;/H&lt;sub&gt;1&lt;/sub&gt;序贯轨迹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="560" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-60" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="610" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
