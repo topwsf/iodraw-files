@@ -236,27 +236,27 @@
           <mxGeometry x="740" y="608" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-89" value="逻辑回归" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="680" width="50" height="30" as="geometry" />
+          <mxGeometry x="735" y="670" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-90" value="随机森林" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="680" width="50" height="30" as="geometry" />
+          <mxGeometry x="785" y="670" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-91" value="MLP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="835" y="680" width="50" height="30" as="geometry" />
+          <mxGeometry x="835" y="670" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-96" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OzTzNNzjrQYj8SDFaywp-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="660" as="sourcePoint" />
-            <mxPoint x="785" y="740" as="targetPoint" />
+            <mxPoint x="860" y="650" as="sourcePoint" />
+            <mxPoint x="785" y="730" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="760" y="660" />
+              <mxPoint x="760" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OzTzNNzjrQYj8SDFaywp-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="660" as="sourcePoint" />
-            <mxPoint x="770" y="690" as="targetPoint" />
+            <mxPoint x="860" y="650" as="sourcePoint" />
+            <mxPoint x="770" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
