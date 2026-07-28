@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-38" value="问题一目标失效:重估s&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;u&lt;/sup&gt;/Copula，更新T*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="950" width="140" height="40" as="geometry" />
+          <mxGeometry x="120" y="950" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-39" value="问题一目标失效:重估s&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;u&lt;/sup&gt;/Copula，更新T*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="1000" width="140" height="40" as="geometry" />
