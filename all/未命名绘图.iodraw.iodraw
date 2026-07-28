@@ -292,7 +292,7 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-108" value="加密抽样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="800" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-112" value="逐车更新三指标累计对数似然比LLR&lt;sub&gt;i&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-112" value="人工复核：ML无正式判定权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="860" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
