@@ -7,7 +7,7 @@
         <mxCell id="aWJw5hTejyLhXJPZgaUP-3" value="&lt;b&gt;参数接入&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="225" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aWJw5hTejyLhXJPZgaUP-4" value="&lt;b&gt;红色:停产整改&lt;/b&gt;&lt;div&gt;&lt;b&gt;暂停放行·原因排查&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;整改后重新基线化&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aWJw5hTejyLhXJPZgaUP-4" value="&lt;div&gt;理想点折中与最终测试&lt;/div&gt;&lt;div&gt;归一化三目标距离最小&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="725" y="460" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aWJw5hTejyLhXJPZgaUP-7" value="误报警率和&lt;div&gt;严重延迟率满足?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
