@@ -55,6 +55,9 @@
         <mxCell id="HU7LwaYIp2TvbDwY6go6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HU7LwaYIp2TvbDwY6go6-3" target="HU7LwaYIp2TvbDwY6go6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HU7LwaYIp2TvbDwY6go6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HU7LwaYIp2TvbDwY6go6-19" target="IcRFuACTG-8M2XC5wldd-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HU7LwaYIp2TvbDwY6go6-19" value="抽取下一辆车&lt;div&gt;ML只调整抽样强度与人工复核&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="620" width="180" height="50" as="geometry" />
         </mxCell>
@@ -90,7 +93,7 @@
           <mxGeometry x="136" y="508" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HU7LwaYIp2TvbDwY6go6-30" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="508" width="40" height="30" as="geometry" />
+          <mxGeometry x="300" y="510" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
