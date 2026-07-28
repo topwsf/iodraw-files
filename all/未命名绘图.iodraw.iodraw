@@ -196,11 +196,6 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-70" value="&lt;b&gt;拒收&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="610" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-72">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="675" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-72" value="&lt;b&gt;接受&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="660" width="60" height="30" as="geometry" />
         </mxCell>
