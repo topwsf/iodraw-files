@@ -10,7 +10,7 @@
         <mxCell id="y1EjJA4T7FjgeCiY4USf-2" value="&lt;b&gt;红色:停产整改&lt;/b&gt;&lt;div&gt;&lt;b&gt;暂停放行·原因排查&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;整改后重新基线化&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="500" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y1EjJA4T7FjgeCiY4USf-3" value="&lt;b&gt;最大累计和C&lt;sub&gt;i&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;达到预警阈值?&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-3" value="最大累计和C&lt;sub style=&quot;&quot;&gt;i&lt;/sub&gt;&lt;div&gt;达到预警阈值?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-5" value="&lt;b&gt;最大累计和C&lt;sub&gt;i&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;达到确认阈值?&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -29,9 +29,9 @@
           <mxGeometry x="740" y="400" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-11" value="&lt;b&gt;进入下一抽检时点&lt;/b&gt;&lt;div&gt;&lt;b&gt;绿色按&lt;/b&gt;τ&lt;sub&gt;G&lt;/sub&gt;&lt;b&gt;、黄色按&lt;/b&gt;τ&lt;sub&gt;γ&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SPRT接受时清零累计和并恢复绿色&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="500" width="230" height="60" as="geometry" />
+          <mxGeometry x="400" y="500" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y1EjJA4T7FjgeCiY4USf-12" value="&lt;b&gt;抽取并标准化三项观测&lt;/b&gt;&lt;div&gt;&lt;b&gt;更新各指标的单边累计和C&lt;sub&gt;i&lt;/sub&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-12" value="抽取并标准化三项观测&lt;div&gt;更新各指标的单边累计和C&lt;sub style=&quot;&quot;&gt;i&lt;/sub&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
