@@ -20,10 +20,10 @@
           <mxGeometry x="105" y="440" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HU7LwaYIp2TvbDwY6go6-2" value="三项LLR&lt;sub&gt;i,n&lt;/sub&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;均&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;达到接受边界?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="440" width="120" height="70" as="geometry" />
+          <mxGeometry x="270" y="440" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HU7LwaYIp2TvbDwY6go6-3" value="&lt;b&gt;当前样本量&lt;/b&gt;&lt;div&gt;&lt;b&gt;达到73辆?&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="440" width="120" height="70" as="geometry" />
+          <mxGeometry x="430" y="440" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
