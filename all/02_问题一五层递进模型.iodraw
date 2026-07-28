@@ -22,16 +22,23 @@
         <mxCell id="HU7LwaYIp2TvbDwY6go6-1" value="任一LLR&lt;sub&gt;i,n&lt;/sub&gt;&lt;div&gt;达到拒收边界?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="440" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HU7LwaYIp2TvbDwY6go6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HU7LwaYIp2TvbDwY6go6-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="530" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="HU7LwaYIp2TvbDwY6go6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HU7LwaYIp2TvbDwY6go6-2" target="HU7LwaYIp2TvbDwY6go6-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HU7LwaYIp2TvbDwY6go6-2" value="三项LLR&lt;sub&gt;i,n&lt;/sub&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;均&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;达到接受边界?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="440" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HU7LwaYIp2TvbDwY6go6-3" value="&lt;b&gt;当前样本量&lt;/b&gt;&lt;div&gt;&lt;b&gt;达到73辆?&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HU7LwaYIp2TvbDwY6go6-9" value="&lt;b&gt;逐车更新正式 SPRT证据同累计三项对数似然比LLRin&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HU7LwaYIp2TvbDwY6go6-10" value="&lt;b&gt;逐车更新正式 SPRT证据同累计三项对数似然比LLRin&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="810" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HU7LwaYIp2TvbDwY6go6-11" value="&lt;b&gt;逐车更新正式 SPRT证据同累计三项对数似然比LLRin&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
