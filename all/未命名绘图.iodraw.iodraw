@@ -364,14 +364,20 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-154" value="单边CUSUM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="758" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-155" target="OzTzNNzjrQYj8SDFaywp-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-155" value="C&lt;sub&gt;i&lt;/sub&gt;&amp;lt;h&lt;sub&gt;w&lt;/sub&gt;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="850" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OzTzNNzjrQYj8SDFaywp-156" target="OzTzNNzjrQYj8SDFaywp-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-156" value="C&lt;sub&gt;i&lt;/sub&gt;&amp;lt;h&lt;sub&gt;c&lt;/sub&gt;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="890" width="60" height="30" as="geometry" />
+          <mxGeometry x="1060" y="850" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-157" value="&lt;b&gt;调用问题二SPRT&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="888" width="80" height="34" as="geometry" />
+          <mxGeometry x="1150" y="848" width="80" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
