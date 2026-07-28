@@ -276,10 +276,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-107" value="继续监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="780" width="60" height="30" as="geometry" />
+          <mxGeometry x="740" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzTzNNzjrQYj8SDFaywp-108" value="加密抽样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="780" width="60" height="30" as="geometry" />
+          <mxGeometry x="810" y="800" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
