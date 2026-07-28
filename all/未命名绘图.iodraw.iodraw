@@ -19,7 +19,7 @@
         <mxCell id="y1EjJA4T7FjgeCiY4USf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-3" target="y1EjJA4T7FjgeCiY4USf-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y1EjJA4T7FjgeCiY4USf-3" value="最大累计和C&lt;sub style=&quot;&quot;&gt;i&lt;/sub&gt;&lt;div&gt;达到预警阈值?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-3" value="最大累计和&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;C&lt;sub style=&quot;&quot;&gt;i&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;div&gt;达到预警阈值?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-5" target="y1EjJA4T7FjgeCiY4USf-7">
