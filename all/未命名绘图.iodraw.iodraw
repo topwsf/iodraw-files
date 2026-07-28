@@ -22,10 +22,10 @@
         <mxCell id="o8okAV7UjtL1ua1eJ4yW-6" value="Model V&lt;div&gt;情景鲁棒性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-7" value="鲁棒工程目标 T" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-7" value="&lt;b&gt;鲁棒工程目标 T&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8okAV7UjtL1ua1eJ4yW-8" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="o8okAV7UjtL1ua1eJ4yW-8" value="敏感性与压力&lt;div&gt;情景验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="460" y="340" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
