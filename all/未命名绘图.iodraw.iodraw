@@ -421,8 +421,8 @@
         <mxCell id="OzTzNNzjrQYj8SDFaywp-174" value="&lt;b&gt;停产整改&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="980" width="60" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="OzTzNNzjrQYj8SDFaywp-177" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1055" width="120" height="60" as="geometry" />
+        <mxCell id="OzTzNNzjrQYj8SDFaywp-177" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
