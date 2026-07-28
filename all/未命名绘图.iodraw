@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DQ00AwfAVu01gSYSyOar-22" value="否：继续迭代" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="190" width="100" height="30" as="geometry" />
+          <mxGeometry x="220" y="380" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
