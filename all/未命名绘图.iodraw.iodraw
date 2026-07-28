@@ -10,6 +10,9 @@
         <mxCell id="y1EjJA4T7FjgeCiY4USf-2" value="&lt;b&gt;到达抽检时点&lt;/b&gt;&lt;div&gt;&lt;b&gt;抽取并标准化三项观测&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;更新单边累计和&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;C&lt;sub&gt;i&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
