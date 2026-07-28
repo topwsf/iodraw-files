@@ -29,7 +29,7 @@
           <mxGeometry x="740" y="400" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-11" value="&lt;b&gt;进入下一抽检时点&lt;/b&gt;&lt;div&gt;&lt;b&gt;绿色按&lt;/b&gt;τ&lt;sub&gt;G&lt;/sub&gt;&lt;b&gt;、黄色按&lt;/b&gt;τ&lt;sub&gt;γ&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SPRT接受时清零累计和并恢复绿色&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="510" width="190" height="60" as="geometry" />
+          <mxGeometry x="420" y="510" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
