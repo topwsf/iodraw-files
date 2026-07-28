@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-1" target="y1EjJA4T7FjgeCiY4USf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-1" value="&lt;b&gt;参数接入&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="225" y="220" width="80" height="40" as="geometry" />
         </mxCell>
@@ -30,6 +33,9 @@
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-11" value="&lt;b&gt;进入下一抽检时点&lt;/b&gt;&lt;div&gt;&lt;b&gt;绿色按τ&lt;sub&gt;G&lt;/sub&gt;、黄色按τ&lt;sub&gt;γ&lt;/sub&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SPRT接受时清零累计和并恢复绿色&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="500" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y1EjJA4T7FjgeCiY4USf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1EjJA4T7FjgeCiY4USf-12" target="y1EjJA4T7FjgeCiY4USf-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y1EjJA4T7FjgeCiY4USf-12" value="抽取并标准化三项观测&lt;div&gt;更新各指标的单边累计和C&lt;sub style=&quot;&quot;&gt;i&lt;/sub&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="150" height="60" as="geometry" />
